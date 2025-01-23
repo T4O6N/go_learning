@@ -1,0 +1,4 @@
+- go mod init github.com/tonpcst/go-first = for creat go mod file
+- go mod tidy = for clear module unused dependencies
+- go build main.go = for can run on every device
+- go get = for get package or library from github to create go sum
